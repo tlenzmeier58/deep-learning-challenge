@@ -1,5 +1,7 @@
 # deep-learning-challenge
 
+![1201169-a-bowl-of-alphabet-soup-with-the-word-success-in-the-middle](https://user-images.githubusercontent.com/67832009/203158390-5bfbd494-ff16-453a-b27c-baefd77efe3e.jpg)
+
 # Alphabet Soup Charity Analysis
 
 ## An effort to predict whether investment in a charity will result in successful fundraising or unsuccessful fundraising based on data features we know from a series of previous applicants
