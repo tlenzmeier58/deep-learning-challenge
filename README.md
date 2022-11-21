@@ -2,10 +2,11 @@
 
 # Alphabet Soup Charity Analysis
 
-##### An effort to predict whether investment in a charity will result in successful fundraising or unsuccessful fundraising based on data features we know from a series of previous applicants
----
+## An effort to predict whether investment in a charity will result in successful fundraising or unsuccessful fundraising based on data features we know from a series of previous applicants
 
-### Data Processing
+
+### Value measurement
+
 
 * The target of this model is `IS_SUCCESSFUL`, a binary column that measures true/false or yes/no.
 
